@@ -18,7 +18,6 @@
 
     <style name="SimpleButton" parent="Widget.AppCompat.Button">
         <item name="android:background">@drawable/publish_button</item>
-        <item name="android:maxHeight">10sp</item>
     </style>
 
 </resources>
